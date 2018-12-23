@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "331327423231",
+    "firebase_url": "https://kingdomtest-475a3.firebaseio.com",
+    "project_id": "kingdomtest-475a3",
+    "storage_bucket": "kingdomtest-475a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331327423231:android:322ee2a9c1cac220",
+        "android_client_info": {
+          "package_name": "work.rizvan.com.kingdomtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331327423231-gsd31ig301253ql09859q484qsl2ikrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "work.rizvan.com.kingdomtest",
+            "certificate_hash": "0f256259461f3cdee973cc3a3aa0cb589744b0ca"
+          }
+        },
+        {
+          "client_id": "331327423231-lpq13g1jpopnmg44bl2c9ovhc2eledek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ4Mp3dClC315qAxawGeZr9xdVWmaKfM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331327423231-lpq13g1jpopnmg44bl2c9ovhc2eledek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

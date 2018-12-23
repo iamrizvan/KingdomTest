@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#09C7A9</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#004D40</color>
+
+
+    <color name="bot_background_color">#006400</color>
+    <color name="user_background_color">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="dark_gray">#413F47</color>
+    <color name="navy_blue">#022A7B</color>
+    <color name="light_green">#09C7A9</color>
+    <color name="dark_green">#004D40</color>
+    <color name="colorGray">#FF818183</color>
+    <color name="read_color">#C0F6FC</color>
+</resources>
